@@ -11,6 +11,6 @@ QR Code:
 
 Video Demo: https://youtu.be/nizjfP9l_fw
 
-Technologies Used: Python, Django, Javascript, jQuery, HTML, CSS, Sass, Heroku
+Technologies Used: Python, Django, JavaScript, jQuery, HTML, CSS, Sass, Heroku
 
 Date Created: August 2021
