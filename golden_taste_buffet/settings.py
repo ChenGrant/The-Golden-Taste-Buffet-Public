@@ -11,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-j^!f%1q(0ctiudv6y)ax^v+9dd73k=vnh9z73io5#d6(0w&95b'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['thegoldentastebuffet.herokuapp.com', 'www.thegoldentastebuffet.com']
 
